@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sal4321
 - 👀 I’m interested in Machine Learning, Exploratory Analysis and Deep Learning
-- 🌱 I’m currently learning Object detection
-- 💞️ I’m looking to collaborate on projects in deep learning
+- 🌱 I’m currently learning about Reinforcement Learning
+- 💞️ I’m looking to collaborate on projects related to Statistical programming, analysis, deep learning and machine learning
 - 📫 How to reach me salehinnazmus672@gmail.com
 
 <!---
